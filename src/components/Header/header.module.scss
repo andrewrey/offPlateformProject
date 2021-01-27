@@ -5,8 +5,13 @@
 .Headerstyles {
   text-align: center;
   background: black;
+  padding: 25px 0;
   h1 {
     font-size: 50px;
     color: white;
+    margin-bottom: 25px;
+  }
+  a {
+    display: block;
   }
 }

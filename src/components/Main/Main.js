@@ -3,7 +3,7 @@ import video from "../../assets/video/excursion.mp4";
 
 const Main = () => (
   <main className={classes.Main}>
-    <video src={video} autoPlay loop controls typeof="movie/mp4">
+    <video src={video} autoPlay loop typeof="movie/mp4">
       Your Browser does not support this video
     </video>
     <h2>Your personal travel guide</h2>
@@ -17,7 +17,7 @@ const Main = () => (
         alt="yellow tent at night with ambient light"
       />
     </figure>
-    <figure>
+    <figure className={classes.Icon}>
       <img
         src="https://content.codecademy.com/programs/freelance-one/excursion/images/phone.png"
         alt="phone icon"
