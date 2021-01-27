@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/offPlateformProject/static/css/main.0eb6993f.chunk.css",
+    "main.js": "/offPlateformProject/static/js/main.6fc22e4a.chunk.js",
+    "main.js.map": "/offPlateformProject/static/js/main.6fc22e4a.chunk.js.map",
+    "runtime-main.js": "/offPlateformProject/static/js/runtime-main.54c09f3f.js",
+    "runtime-main.js.map": "/offPlateformProject/static/js/runtime-main.54c09f3f.js.map",
+    "static/js/2.3d86d1e5.chunk.js": "/offPlateformProject/static/js/2.3d86d1e5.chunk.js",
+    "static/js/2.3d86d1e5.chunk.js.map": "/offPlateformProject/static/js/2.3d86d1e5.chunk.js.map",
+    "index.html": "/offPlateformProject/index.html",
+    "static/css/main.0eb6993f.chunk.css.map": "/offPlateformProject/static/css/main.0eb6993f.chunk.css.map",
+    "static/js/2.3d86d1e5.chunk.js.LICENSE.txt": "/offPlateformProject/static/js/2.3d86d1e5.chunk.js.LICENSE.txt",
+    "static/media/excursion.e682c771.mp4": "/offPlateformProject/static/media/excursion.e682c771.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c09f3f.js",
+    "static/js/2.3d86d1e5.chunk.js",
+    "static/css/main.0eb6993f.chunk.css",
+    "static/js/main.6fc22e4a.chunk.js"
+  ]
+}
